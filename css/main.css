@@ -1200,7 +1200,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6167f1;
+  background: #dbf639;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2469,7 +2469,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("https://pic.jitudisk.com/public/2022/06/27/165f0cc4f78d9.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
